@@ -1,4 +1,6 @@
-﻿namespace TP5_2
+﻿using System.Windows.Forms;
+
+namespace TP5_2
 {
     partial class Form1
     {
